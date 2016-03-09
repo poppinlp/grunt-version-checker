@@ -1,0 +1,30 @@
+{
+  "name": "grunt-version-checker",
+  "version": "0.0.1",
+  "description": "Check version setting in Gruntfile and do some stuff you want",
+  "main": "tasks/version-checker.js",
+  "devDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poppinlp/grunt-version-checker.git"
+  },
+  "keywords": [
+    "gruntplugin",
+    "version",
+    "checker"
+  ],
+  "peerDependencies": {
+    "grunt": ">=0.4.0"
+  },
+  "author": "PoppinL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poppinlp/grunt-version-checker/issues"
+  },
+  "homepage": "https://github.com/poppinlp/grunt-version-checker#readme"
+}
